@@ -14,3 +14,6 @@ if user_is_nice:
     print('Welcome')
 else:
     print('You are not welcome')
+
+string = "It's a string."
+print(string[::-1])
